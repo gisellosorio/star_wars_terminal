@@ -11,5 +11,5 @@ Code to watch Star Wars on the Windows terminal
   -Verify that you can now Telnet the port
   Reference: https://support.na.sage.com/selfservice/viewContent.do?externalId=11120&sliceId=1
   
- 2) Once Telnet is enabled, open the terminal (Windows key + R, then type cmd). 
+ 2) Once Telnet is enabled, open the terminal (Windows key + R, then type cmd and select OK). 
  3) Type on the terminal:  telnet towel.blinkenlights.nl
